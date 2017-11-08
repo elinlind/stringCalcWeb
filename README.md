@@ -1,3 +1,5 @@
+[![Build Status](your travis urlfor the repo here.png)](https://travis-ci.org/elinlind/stringCalcWeb)
+
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
 # Continuous Integration with Travis & Heroku
